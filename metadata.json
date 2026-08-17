@@ -1,0 +1,6 @@
+{
+  "name": "Интернет-магазин Nova3D",
+  "description": "Современный интернет-магазин с 3D-интерактивностью, каталогом товаров, корзиной, симулятором оплаты (СБП, карты, QR) и удобной админ-панелью управления.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
